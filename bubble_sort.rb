@@ -27,6 +27,7 @@ if array[0].class == Integer
       end
     end
     print array
+  end
 end
-end
-bubble_sort([[2,0,500,1,0,0,2,500]) do |x,y| (x.length - y.length) end
+
+# bubble_sort([[2,0,500,1,0,0,2,500]) do |x,y| (x.length - y.length) end
