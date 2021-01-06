@@ -12,7 +12,6 @@ def bubble_sort(array)
     end
   end
 end
-return array
 
 def bubble_sort_by(array)
   sorted = false
