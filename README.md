@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
-👤 **Author2**
+👤 **Luis Vinicius Marques Santos**
 
 - GitHub: [@luisvinicius09](https://github.com/luisvinicius09)
 - Twitter: [@luisvinicius09](https://twitter.com/luisvinicius09)
