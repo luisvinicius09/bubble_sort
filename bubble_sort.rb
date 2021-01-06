@@ -14,7 +14,6 @@ def bubble_sort(array)
 end
 return array
 
-
 def bubble_sort_by(array)
   sorted = false
   until sorted
