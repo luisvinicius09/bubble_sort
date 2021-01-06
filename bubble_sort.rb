@@ -14,4 +14,5 @@ def bubble_sort array
   print array
 end
 
-bubble_sort([75, 2, 4, 15, 65])
+
+bubble_sort_by(["a", "your name", "fer", "hi"]) do |x, y| x.length - y.length end
