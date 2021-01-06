@@ -13,11 +13,16 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - Code editor
-- Ruby on terminal
+- Ruby installed locally
 
 ### Usage
 
-- Running on the terminal(the code or the file)
+- Download/Clone the repository
+- You will need to call the function in the end of your local file.
+    Ex: bubble_sort([3, 5, 7, 19, 293, 0]) or bubble_sort_by(["Your name", "Hey", "hi", "What's up?"]) do |x,y| x.length - y.length end
+- You can run the file in terminal using the command "ruby bubble_sort.rb"
+- Or you can copy & paste the code in the terminal and run it.
+
 
 ## Authors
 
@@ -38,13 +43,6 @@ Find Me Arround web:
 <a href="https://github.com/GuNner-pete" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="mrakhilg" height="30" width="30" /></a>
 </p>
 
-<<<<<<< HEAD
-👤 **Luis Vinicius Marques Santos**
-
-- GitHub: [@luisvinicius09](https://github.com/luisvinicius09)
-- Twitter: [@luisvinicius09](https://twitter.com/luisvinicius09)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/luis-vinicius/)
-=======
 👤 **Author2**
 <h1 align="center">
 Luis Vinicius
@@ -57,7 +55,6 @@ Find Me Arround web:
 <a href="https://twitter.com/luisvinicius09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
 <a href="https://github.com/luisvinicius09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="mrakhilg" height="30" width="30" /></a>
 </p>
->>>>>>> 806233b0138cc90b19d1f37bf1d5d96d25803caf
 
 ## 🤝 Contributing
 
