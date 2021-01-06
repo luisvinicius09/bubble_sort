@@ -17,11 +17,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-- Download/Clone the repository
+- Download/Clone the repository Ex: git clone https://github.com/luisvinicius09/bubble_sort.git
 - You will need to call the function in the end of your local file.
 <br>Ex: bubble_sort([3, 5, 7, 19, 293, 0])<br> or bubble_sort_by(["Your name", "Hey", "hi", "What's up?"]) do |x,y| x.length - y.length end
-- You can run the file in terminal using the command "ruby bubble_sort.rb"
-- Or you can copy & paste the code in the terminal and run it.
+- Make sure your terminal is on the same folder as your file.(use the command "cd folder" to navigate through the folders) 
+<br>And you can run the file using the command "ruby bubble_sort.rb"
 
 
 ## Authors
@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 Peter Mo Gerges
 </h1>
 <h2 align="center">
-Find Me Arround web:
+Find Me Around web:
 </h2>
 <p align="center">
 <a href="https://www.instagram.com/via_love_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
@@ -48,7 +48,7 @@ Find Me Arround web:
 Luis Vinicius
 </h1>
 <h2 align="center">
-Find Me Arround web:
+Find Me Around web:
 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-vinicius/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" color="blue" height="30" width="30" /></a>
