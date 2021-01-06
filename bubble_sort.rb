@@ -1,30 +1,30 @@
-def bubble_sort (array)
-  sorted = false
-  until sorted do
-    sorted = true
+def bubble_sort(array)
+  sorted = true
+  while sorted do
+    sorted = false
     element = 0
     while element < (array.length - 1)
       if array[element] > array[element + 1]
         array[element], array[element + 1] = array[element + 1], array[element]
-        sorted = false
+        sorted = true
       end
-      element += 1 
+      element += 1
     end
   end
   print array
 end
 
-def bubble_sort_by (array)
-  sorted = false
-  until sorted do
-    sorted = true
+def bubble_sort_by(array)
+  sorted = true
+  while sorted do
+    sorted = false
     element = 0
     while element < (array.length - 1)
-      if (yield array[element] ,array[element + 1]).to_i >=0
+      if (yield array[element], array[element + 1]).to_i >= 0
         array[element], array[element + 1] = array[element + 1], array[element]
-        sorted = false
+        sorted = true
       end
-      element += 1 
+      element += 1
     end
   end
   print array
