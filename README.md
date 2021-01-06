@@ -46,7 +46,7 @@ Luis Vinicius
 Find Me Arround web:
 </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/luis-vinicius/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/luis-vinicius/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" color="blue" height="30" width="30" /></a>
 <a href="https://twitter.com/luisvinicius09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
 <a href="https://github.com/luisvinicius09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="mrakhilg" height="30" width="30" /></a>
 </p>
