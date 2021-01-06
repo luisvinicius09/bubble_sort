@@ -11,7 +11,7 @@ def bubble_sort(array)
       element += 1
     end
   end
-  print array
+  array
 end
 
 def bubble_sort_by(array)
@@ -27,7 +27,5 @@ def bubble_sort_by(array)
       element += 1
     end
   end
-  print array
+  array
 end
-
-# bubble_sort([2,0,500,1,0,0,2,500]) do |x,y| (x.length - y.length) end
