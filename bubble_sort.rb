@@ -1,12 +1,12 @@
 def bubble_sort(array)
-  sorted = true
-  while sorted do
-    sorted = false
+  sorted = false
+  until sorted
+    sorted = true
     element = 0
     while element < (array.length - 1)
       if array[element] > array[element + 1]
         array[element], array[element + 1] = array[element + 1], array[element]
-        sorted = true
+        sorted = false
       end
       element += 1
     end
@@ -15,14 +15,14 @@ def bubble_sort(array)
 end
 
 def bubble_sort_by(array)
-  sorted = true
-  while sorted do
-    sorted = false
+  sorted = false
+  until sorted
+    sorted = true
     element = 0
     while element < (array.length - 1)
       if (yield array[element], array[element + 1]).to_i >= 0
         array[element], array[element + 1] = array[element + 1], array[element]
-        sorted = true
+        sorted = false
       end
       element += 1
     end
@@ -30,4 +30,4 @@ def bubble_sort_by(array)
   print array
 end
 
-# bubble_sort([[2,0,500,1,0,0,2,500]) do |x,y| (x.length - y.length) end
+# bubble_sort([2,0,500,1,0,0,2,500]) do |x,y| (x.length - y.length) end
