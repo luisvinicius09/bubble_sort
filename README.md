@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Download/Clone the repository
 - You will need to call the function in the end of your local file.
-    Ex: bubble_sort([3, 5, 7, 19, 293, 0]) or bubble_sort_by(["Your name", "Hey", "hi", "What's up?"]) do |x,y| x.length - y.length end
+<br>Ex: bubble_sort([3, 5, 7, 19, 293, 0]) or bubble_sort_by(["Your name", "Hey", "hi", "What's up?"]) do |x,y| x.length - y.length end
 - You can run the file in terminal using the command "ruby bubble_sort.rb"
 - Or you can copy & paste the code in the terminal and run it.
 
