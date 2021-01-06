@@ -11,8 +11,9 @@ def bubble_sort(array)
       element += 1
     end
   end
-  return array
 end
+return array
+
 
 def bubble_sort_by(array)
   sorted = false
@@ -27,5 +28,5 @@ def bubble_sort_by(array)
       element += 1
     end
   end
-  return array
 end
+return array
